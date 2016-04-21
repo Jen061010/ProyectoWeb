@@ -8,9 +8,8 @@ using System.Data.Entity;
 
 namespace Infraestructura
 {
-    public interface ICustomerDbContext : IDisposable
+    public interface ICustomerDbContext : IUnitOfWork
     {
-        int SaveChanges();
         public IDbSet<ICustomer> Customers{ get; set; }
     }
 }

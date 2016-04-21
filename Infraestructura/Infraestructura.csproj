@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="CustomerDbContext.cs" />
     <Compile Include="ICustomerDbContext.cs" />
+    <Compile Include="IUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

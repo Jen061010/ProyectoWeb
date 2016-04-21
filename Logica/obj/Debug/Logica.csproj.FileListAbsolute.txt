@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\bin\Debug\Logica.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\bin\Debug\Logica.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\obj\Debug\Logica.dll
+c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\obj\Debug\Logica.pdb

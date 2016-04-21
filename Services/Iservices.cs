@@ -8,6 +8,6 @@ namespace Services
 {
     class Iservices
     {
-        public void Save
+      
     }
 }

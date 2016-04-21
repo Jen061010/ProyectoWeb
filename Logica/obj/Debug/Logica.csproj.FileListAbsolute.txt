@@ -3,3 +3,6 @@ c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\bin\
 c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\obj\Debug\Logica.dll
 c:\users\admin\documents\visual studio 2012\Projects\MvcApplication1\Logica\obj\Debug\Logica.pdb
+C:\Users\admin\Documents\GitHubSourceTree\ProyectoWeb\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHubSourceTree\ProyectoWeb\Logica\obj\Debug\Logica.dll
+C:\Users\admin\Documents\GitHubSourceTree\ProyectoWeb\Logica\obj\Debug\Logica.pdb

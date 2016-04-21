@@ -13,7 +13,7 @@ namespace Infraestructura
        
         public DbSet<ICustomer> Customers { get; set; }
 
- 
+        
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

@@ -5,7 +5,6 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Data.Entity;
 using System.Globalization;
 using System.Web.Security;
-//Hola sergi
 namespace ProyectoWeb.Models
 {
     public class UsersContext : DbContext
